@@ -1,0 +1,32 @@
+.vDefault{
+	height : 250px;
+	width : 350px;
+}
+
+.vAfficher{
+	width: 50%;
+	margin: 0 auto;
+}
+
+.vListeAfficher{
+	float: right;
+}
+
+.nouvVideo input{
+	width: 25%;
+}
+
+.formContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  float: left;
+}
